@@ -68,9 +68,9 @@ CREATE TABLE user_attempts (
 - TOKEN = <discord bot token retrieved from discord developer portal
 - DB_HOST = <DB host name (generally localhost if running locally)>
 - DB_POST = <PostgreSQL server port (default is 5432)>
-- DB_NAME = <Name of Database>
-- DB_USER = <Username of DB user>
-- DB_PASS = <Password of DB user>
+- DB_NAME = <Database name>
+- DB_USER = <Username of user with database access>
+- DB_PASS = <Password for user>
 
 ## Features to be implemented:
 
