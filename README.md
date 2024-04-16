@@ -65,7 +65,7 @@ CREATE TABLE user_attempts (
 
 ### .ENV Setup:
 
-- TOKEN = <discord bot token retrieved from discord developer portal
+- TOKEN = `<discord bot token retrieved from discord developer portal>`
 - DB_HOST = `<DB host name (generally localhost if running locally)>`
 - DB_POST = `<PostgreSQL server port (default is 5432)>`
 - DB_NAME = `<Database name>`
